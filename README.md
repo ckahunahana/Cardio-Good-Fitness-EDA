@@ -1,2 +1,2 @@
 # Cardio-Good-Fitness-EDA
-Exploratory Data Analysis using PYthon
+Exploratory Data Analysis using Python
